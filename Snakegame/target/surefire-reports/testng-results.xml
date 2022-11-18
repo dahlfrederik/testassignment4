@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T18:39:52 CET" name="Surefire suite" finished-at="2022-11-18T18:39:52 CET" duration-ms="149">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T18:39:52 CET" name="Surefire test" finished-at="2022-11-18T18:39:52 CET" duration-ms="149">
+      <class name="main.GameTest">
+        <test-method signature="snakeOutOfBoundsTest()" started-at="2022-11-18T18:39:52 CET" name="snakeOutOfBoundsTest" finished-at="2022-11-18T18:39:52 CET" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- snakeOutOfBoundsTest -->
+        <test-method signature="snakeCanGrowTest()" started-at="2022-11-18T18:39:52 CET" name="snakeCanGrowTest" finished-at="2022-11-18T18:39:52 CET" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- snakeCanGrowTest -->
+        <test-method signature="snakeFoodCollisionTest()" started-at="2022-11-18T18:39:52 CET" name="snakeFoodCollisionTest" finished-at="2022-11-18T18:39:52 CET" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- snakeFoodCollisionTest -->
+        <test-method signature="snakeMovesTest()" started-at="2022-11-18T18:39:52 CET" name="snakeMovesTest" finished-at="2022-11-18T18:39:52 CET" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- snakeMovesTest -->
+        <test-method signature="snakeCanDieTest()" started-at="2022-11-18T18:39:52 CET" name="snakeCanDieTest" finished-at="2022-11-18T18:39:52 CET" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- snakeCanDieTest -->
+      </class> <!-- main.GameTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
